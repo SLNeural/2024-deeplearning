@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "batch_size": 32,
+  "epochs": 5,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "normalization_mean": 0.5,
+  "normalization_std": 0.5,
+  "train_size": 6000,
+  "val_size": 1000,
+  "device": "cuda:0",
+  "torch_version": "2.4.0",
+  "selection_rule": "最高验证准确率；相同时保留较早轮次"
+}

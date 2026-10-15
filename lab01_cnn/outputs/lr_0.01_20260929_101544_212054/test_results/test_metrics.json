@@ -1,0 +1,10 @@
+{
+  "selected_run": "lr_0.01_20260929_101544_212054",
+  "learning_rate": 0.01,
+  "selected_epoch": 4,
+  "best_val_accuracy": 0.971,
+  "test_size": 10000,
+  "test_accuracy": 0.9569,
+  "test_macro_f1": 0.9568891826711979,
+  "error_count": 431
+}

@@ -16,10 +16,10 @@ venv/
 *.key
 
 # 数据集与训练输出
-data/
-datasets/
-outputs/
-checkpoints/
+# data/
+# datasets/
+# outputs/
+# checkpoints/
 
 # 模型权重
 *.pth
