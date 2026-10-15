@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 .cache/
-data/
-outputs/
-weights/
+data/classification/cifar-10-python.tar.gz
+# outputs/
+# weights/
 .pytest_cache/
