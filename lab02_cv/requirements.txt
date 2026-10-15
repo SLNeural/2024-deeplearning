@@ -1,0 +1,6 @@
+# 使用 NVIDIA 容器自带的 torch / torchvision，不在此安装或替换。
+# 以下为辅助依赖，仅在容器缺失时安装。
+numpy
+matplotlib
+Pillow
+ultralytics>=8.3,<9
