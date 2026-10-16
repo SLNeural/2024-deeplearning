@@ -1,0 +1,4 @@
+# Python 3.10+；已有满足要求的环境不需要升级。
+torch>=2.2
+numpy>=1.24
+matplotlib>=3.7
