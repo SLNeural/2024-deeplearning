@@ -1,0 +1,5 @@
+f37072fd47e89c5e827621c5baffa7500819f7896bbacec160b1a16c560e07ec  .cache/torch/checkpoints/resnet18-f37072fd.pth
+f59b3d833e2ff32e194b5bb8e08d211dc7c5bdf144b90d2c8412c47ccfc83b36  weights/yolov8n.pt
+6502f676851cfe25f8af75531dfb32375b7325b73c37e7b43741fa422893e71d  licenses/torchvision-0.19.0-BSD-3-Clause.txt
+0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0  licenses/ultralytics-AGPL-3.0.txt
+cee81b288d28dcefa725037bb8fd41674ffd1a5438162272012ac16758de93dc  licenses/ultralytics-8.4.177.tar.gz
